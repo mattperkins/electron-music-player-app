@@ -4,8 +4,9 @@ const BrowserWindow = electron.BrowserWindow
 let mainWindow = null
 app.on('ready', () => {
  mainWindow = new BrowserWindow({
-  width: 612,
-  height: 384
+  width: 1020,
+  height: 800
  })
+ // mainWindow.webContents.openDevTools()
  mainWindow.loadURL(`file://${__dirname}/app/index.html`)
 })
