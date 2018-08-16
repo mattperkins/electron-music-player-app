@@ -2,7 +2,7 @@
 ## yarn 
 
 # RUN 
-## yarn start 
+## yarn dev
 
 # ENDPOINTS 
 ## localhost: 
