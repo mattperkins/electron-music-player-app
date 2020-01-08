@@ -1,23 +1,11 @@
 {
-  "name": "electron-music-player-app",
+  "name": "electron-take-note",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
-    "dev": "electron ." 
+    "dev": "electron ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mattperkins/electron-music-player-app.git"
-  },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
-   "electron-prebuilt": "^1.1.0" 
-  },
-  "bugs": {
-    "url": "https://github.com/mattperkins/electron-music-player-app/issues"
-  },
-  "homepage": "https://github.com/mattperkins/electron-music-player-app#readme"
+  }
 }
