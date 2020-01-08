@@ -1,11 +1,7 @@
 # INSTALL 
-## yarn 
+## npm i 
 
 # RUN 
-## yarn dev
-
-# ENDPOINTS 
-## localhost: 
+## npm run dev
 
 # DEPLOY 
-## npm build
